@@ -1,0 +1,2 @@
+BrcmFirmwareRepo.kext
+BrcmPatchRAM2.kext
