@@ -319,6 +319,10 @@
 	<dict>
 		<key>HWPEnable</key>
 		<true/>
+		<key>HWPValue</key>
+		<string>0x94002301</string>
+		<key>UseARTFrequency</key>
+		<true/>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -519,9 +523,9 @@
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
-		<key>AppleRTC</key>
+		<key>AppleIntelCPUPM</key>
 		<true/>
-		<key>AsusAICPUPM</key>
+		<key>AppleRTC</key>
 		<true/>
 		<key>ForceKextsToLoad</key>
 		<array>
